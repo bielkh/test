@@ -1,0 +1,20 @@
+.navbar {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 1rem 2rem;
+    background-color: white;
+}
+.navbar h2 a {
+    opacity: 2;
+}
+.navbar ul {
+    display: flex;
+    gap: 1rem;
+}
+.cafe {
+    margin: 0;
+    margin-top: 10px;
+    height: 30px;
+    width: 30px;
+}
