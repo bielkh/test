@@ -7,7 +7,7 @@ import playCookies from '../img/home/PlayCookies.jpeg';
 import pokeBurgers from '../img/home/PokeBurgers.png';
 import Creeper from '../img/home/creepercandy.jpg';
 import caCo from '../img/home/CacoCookie.jpg';
-import pokeCakes from '../img/home/PokeCakes.png';
+import pokeCakes from '../img/home/pokecakes.png';
 import strogCarne from '../img/home/strogcarne.jpg';
 import lasaBolo from '../img/home/lasabolo.jpg';
 import feiJo from '../img/home/feijo.jpg';
