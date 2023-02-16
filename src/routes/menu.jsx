@@ -2,7 +2,7 @@ import './menu.css';
 
 import React, { useState, useEffect } from 'react';
 
-import sonicRings from '../img/home/sonicRings.png';
+import sonicRings from '../img/home/sonicrings.png';
 import playCookies from '../img/home/PlayCookies.jpeg';
 import pokeBurgers from '../img/home/PokeBurgers.png';
 import Creeper from '../img/home/creepercandy.jpg';
