@@ -1,6 +1,6 @@
 import React from 'react'
 
-import pokeCakes from '../img/home/pokeCakes.png'
+import pokeCakes from '../img/home/pokecakes.png'
 
 import './pokeBolo.css';
 
